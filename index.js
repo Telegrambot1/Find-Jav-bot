@@ -1,6 +1,6 @@
 /** Telegram机器人的Token */
-const token = '机器人Token';
-const robotName = '@xxxx';
+const token = '390836380:AAGiwH-1S0mW8JcRALEWhxEpLqo88gpY-Nk';
+const robotName = '@xrw_bot';
 
 
 
